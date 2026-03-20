@@ -1,0 +1,26 @@
+{
+  "name": "event-forum-hub-login",
+  "version": "1.0.0",
+  "description": "A one-stop event forum and community hub application for students to check events, upload details, interact, and receive reminders.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.30.1",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.2"
+  },
+  "homepage": ".",
+  "license": "MIT"
+}
